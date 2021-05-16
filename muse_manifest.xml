@@ -1,0 +1,40 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.lovers-shirts.com" resolutions="1x" timestamp="1621124337967">
+  <folder name="css">
+    <file name="site_global.css" crc="3902800193"/>
+    <file name="master_a-p_g_-maestra.css" crc="4097190845" ref="index:acerca-de"/>
+    <file name="index.css" crc="471955922" ref="index"/>
+    <file name="acerca-de.css" crc="4042320773" ref="acerca-de"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:acerca-de"/>
+    <file name="museutils.js" crc="163421577" ref="index:acerca-de"/>
+    <file name="whatinput.js" crc="86476730" ref="index:acerca-de"/>
+    <file name="museconfig.js" crc="168988563" ref="index:acerca-de"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:acerca-de"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:acerca-de"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:acerca-de"/>
+    <file name="require.js" crc="244322403" ref="index:acerca-de"/>
+    <file name="webpro.js" crc="3848665353" ref="acerca-de"/>
+    <file name="form_check.php" crc="158155501" ref="acerca-de"/>
+    <file name="form_throttle.php" crc="3992970984" ref="acerca-de"/>
+    <file name="form_process.php" crc="4078697226" ref="acerca-de"/>
+    <file name="form-u2222.php" crc="3926953979" ref="acerca-de"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3831071264" ref="index"/>
+    <file name="logo.png" crc="3961318204" seo="true" ref="index:acerca-de"/>
+    <file name="5.png" crc="59830423" seo="true" ref="index"/>
+    <file name="2.png" crc="4224125542" seo="true" ref="index"/>
+    <file name="8.jpg" crc="267663686" seo="true" ref="index"/>
+    <file name="1.jpg" crc="173677773" seo="true" ref="index"/>
+    <file name="8.png" crc="267670788" seo="true" ref="index"/>
+    <file name="facebook.png" crc="3901285617" seo="true" ref="index:acerca-de"/>
+    <file name="twitter.png" crc="76804317" seo="true" ref="index:acerca-de"/>
+    <file name="youtube.png" crc="182233623" seo="true" ref="index:acerca-de"/>
+    <file name="4.png" crc="4016723287" seo="true" ref="acerca-de"/>
+    <file name="9.png" crc="25104716" seo="true" ref="acerca-de"/>
+    <file name="10.png" crc="4015530547" seo="true" ref="acerca-de"/>
+  </folder>
+  <file name="index.html" crc="3879543790" seo="true" mt="1621118384359" redirect="true"/>
+  <file name="acerca-de.html" crc="388815954" seo="true" mt="1621118234347" redirect="true"/>
+</manifest>
